@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "name": "Ocean Shirt",
+        "price": "16.00",
+        "quantity": "60",   
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",
+        "scientificName": "Fictitiousia fabricata" ,
+        "originCountry": "China",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Artificial flowers do not have any specific light requirements as they do not rely on photosynthesis for energy.",
+        "categories": "houseplant",
+        "img1": "/img/clothes/1.jpg",
+        "img2": "/img/clothes/2.jpg",
+        "img3": "/img/clothes/3.jpg"
+    },   
+
+    {
+        "id": 2,
+        "name": "Colorful Shirt",
+        "price": "22.00",
+        "quantity": "55",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Chamaedorea elegans" ,
+        "originCountry": "Mexico and Central America",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Parlor Palms thrive in bright, indirect light. They can tolerate lower light conditions, but too much direct sunlight can scorch their leaves. Ideally, they should be placed near a north or east-facing window where they can receive filtered sunlight.",        
+        "categories": "houseplant",
+        "img1": "/img/clothes/2.jpg",
+        "img2": "/img/clothes/4.jpg",
+        "img3": "/img/clothes/5.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Basic T-shirts",
+        "price": "14.00",
+        "quantity": "75",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Lilium luminara" ,
+        "originCountry": "Imaginaria",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Cvetlicarna Rosa do not have any specific light requirements as they do not rely on photosynthesis for energy.",
+        "categories": "houseplant",
+        "img1": "/img/clothes/4.jpg",
+        "img2": "/img/clothes/6.jpg",
+        "img3": "/img/clothes/7.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Graphic/Printed T-shirts",
+        "price": "12.00",
+        "quantity": "43",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Schlumbergera spp." ,
+        "originCountry": "Brazil.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Place the Christmas Cactus in bright, indirect light. Avoid direct sunlight, especially during the hottest hours of the day, as it can scorch the leaves.",
+        "categories": "succulentplant",
+        "img1": "/img/clothes/8.jpg",
+        "img2": "/img/clothes/9.jpg",
+        "img3": "/img/clothes/10.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Vintage T-shirts",
+        "price": "18.00",
+        "quantity": "50",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Echinocactus grusonii" ,
+        "originCountry": "Mexico.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "This cactus thrives in full sunlight. Place it in a location where it receives direct sunlight for most of the day. However, be cautious of extremely intense midday sun, especially in hotter climates.",
+        "categories": "succulentplant",
+        "img1": "/img/clothes/1.jpg",
+        "img2": "/img/clothes/2.jpg",
+        "img3": "/img/clothes/1.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Baseball T-shirt",
+        "price": "20.00",
+        "quantity": "55",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Echeveria spp" ,
+        "originCountry": " Mexico.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Echeverias prefer bright, indirect sunlight. They thrive in well-lit indoor areas or in outdoor locations with filtered sunlight. Too much direct sunlight can lead to sunburn on the leaves.",
+        "categories": "succulentplant",
+        "img1": "/img/clothes/5.jpg",
+        "img2": "/img/clothes/6.jpg",
+        "img3": "/img/clothes/5.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Oversized T-shirt",
+        "price": "30.00",
+        "quantity": "80",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Begonia spp" ,
+        "originCountry": "South America, Africa, and Southeast Asia.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Begonias have varying light requirements depending on the species or variety, but should be shielded from strong afternoon light.",
+        "categories": "outdoorplant",
+        "img1": "/img/clothes/6.jpg",
+        "img2": "/img/clothes/7.jpg",
+        "img3": "/img/clothes/6.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "Vintage T-shirts",
+        "price": "15.00",
+        "quantity": "87",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Pelargonium spp" ,
+        "originCountry": "South Africa.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Geraniums thrive in bright, direct sunlight. They typically require at least 6 hours of sunlight each day to promote healthy growth and abundant blooming. In regions with intense summer heat, they may benefit from some protection from the harsh afternoon sun.",
+        "categories": "outdoorplant",
+        "img1": "/img/clothes/7.jpg",
+        "img2": "/img/clothes/8.jpg",
+        "img3": "/img/clothes/7.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "Oversized T-shirt",
+        "price": "18.00",
+        "quantity": "70",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Hydrangea spp" ,
+        "originCountry": "Europe.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "The light requirements for hydrangeas can vary based on the species and cultivar, but protection from hot afternoon sun.",
+        "categories": "outdoorplant",
+        "img1": "/img/clothes/8.jpg",
+        "img2": "/img/clothes/9.jpg",
+        "img3": "/img/clothes/8.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Graphic/Printed T-shirts",
+        "price": "19.00",
+        "quantity": "50",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Rhododendron spp" ,
+        "originCountry": "Europe.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Azaleas thrive in dappled or filtered sunlight. They prefer light shade or morning sun with protection from the intense afternoon sun. Some varieties can tolerate slightly more sun, but in general, they are sensitive to too much direct sunlight, which can scorch their leaves.",
+        "categories": "flowershrub",
+        "img1": "/img/clothes/9.jpg",
+        "img2": "/img/clothes/10.jpg",
+        "img3": "/img/clothes/9.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Tie-dye T-shirt",
+        "price": "29.00",
+        "quantity": "50",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Deutzia spp",
+        "originCountry": "Korea.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Deutzia typically thrives in full sun to light shade. It appreciates a location with morning sun and afternoon shade, especially in regions with intense sunlight. Some varieties can tolerate more shade, but too much shade can lead to reduced flowering.",
+        "categories": "flowershrub",
+        "img1": "/img/clothes/11.jpg",
+        "img2": "/img/clothes/12.jpg",
+        "img3": "/img/clothes/11.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "Vintage T-shirts",
+        "price": "50.00",
+        "quantity": "60",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Forsythia spp",
+        "originCountry": "Korea.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Forsythia thrives in full sun to light shade. It typically blooms best in full sun conditions. However, it can tolerate some shade, though too much shade may result in reduced flowering.",
+        "categories": "flowershrub",
+        "img1": "/img/clothes/12.jpg",
+        "img2": "/img/clothes/13.jpg",
+        "img3": "/img/clothes/14.jpg"
+    },
+
+    {
+        "id": 13,
+        "name": "Tie-dye T-shirt",
+        "price": "25.00",
+        "quantity": "55",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Spathiphyllum",
+        "originCountry": "Americas",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Peace Lilies thrive in indirect or filtered light. They can tolerate low light conditions, but they will generally produce more flowers and grow better with bright, indirect light. Avoid exposing them to direct sunlight, as it can scorch their leaves.",
+        "categories": "houseplant",
+        "img1": "/img/clothes/14.jpg",
+        "img2": "/img/clothes/15.jpg",
+        "img3": "/img/clothes/16.jpg"
+    },
+
+    {
+        "id": 14,
+        "name": "Henley T-shirt",
+        "price": "10.00",
+        "quantity": "100",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Aglaonema spp",
+        "originCountry": "Philippines.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Aglaonema thrives in medium to low indirect light. It can tolerate low light conditions but avoid placing it in direct sunlight, as this can scorch its leaves.",
+        "categories": "houseplant",
+        "img1": "/img/clothes/16.jpg",
+        "img2": "/img/clothes/17.jpg",
+        "img3": "/img/clothes/18.jpg"
+    },
+
+    {
+        "id": 15,
+        "name": "Oversized T-shirt",
+        "price": "22.00",
+        "quantity": "65",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Ficus microcarpa",
+        "originCountry": "India.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "This plant thrives in bright, indirect light. It can tolerate lower light conditions but will grow best and maintain its attractive appearance with ample, filtered sunlight. Avoid placing it in direct, harsh sunlight, which can lead to leaf burn.",
+        "categories": "houseplant",
+        "img1": "/img/clothes/18.jpg",
+        "img2": "/img/clothes/19.jpg",
+        "img3": "/img/clothes/20.jpg"
+    },
+
+    {
+        "id": 16,
+        "name": "Henley T-shirt",
+        "price": "35.00",
+        "quantity": "70",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Aloe erinaceus",
+        "originCountry": "south africa.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": " This resilient plant loves basking in full sun, absorbing the energy it needs to grow and flourish. It's perfect for sunny windowsills, rock gardens, and desert-themed landscapes.",
+        "categories": "succulentplant",
+        "img1": "/img/clothes/20.jpg",
+        "img2": "/img/clothes/11.jpg",
+        "img3": "/img/clothes/12.jpg"
+    },
+
+    {
+        "id": 17,
+        "name": "Oversized T-shirt",
+        "price": "41.00",
+        "quantity": "30",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Aglaonema spp",
+        "originCountry": "Philippines.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Chinese Evergreens thrive in medium to low indirect light. They can tolerate lower light conditions, but for optimal growth and vibrant foliage, provide bright, filtered light. Avoid exposing them to direct sunlight, which can scorch their leaves.",
+        "categories": "succulentplant",
+        "img1": "/img/clothes/12.jpg",
+        "img2": "/img/clothes/13.jpg",
+        "img3": "/img/clothes/14.jpg"
+    },
+
+    {
+        "id": 18,
+        "name": "Henley T-shirt",
+        "price": "39.00",
+        "quantity": "40",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Philodendron 'Red Congo'",
+        "originCountry": "South America.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "The Red Congo thrives in bright, indirect light. It can tolerate lower light conditions, but its leaves may lose some of their vibrant coloration. Avoid exposing it to direct sunlight, which can scorch its leaves.",
+        "categories": "succulentplant",
+        "img1": "/img/clothes/14.jpg",
+        "img2": "/img/clothes/15.jpg",
+        "img3": "/img/clothes/16.jpg"
+    },
+
+    {
+        "id": 19,
+        "name": "Vintage T-shirts",
+        "price": "12.00",
+        "quantity": "95",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Aster spp",
+        "originCountry": "freach",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Asters thrive in full sun to partial shade. They typically produce the most vibrant blooms when exposed to plenty of sunlight. However, they can tolerate some shade, especially in hot climates.",
+        "categories": "outdoorplant",
+        "img1": "/img/clothes/16.jpg",
+        "img2": "/img/clothes/17.jpg",
+        "img3": "/img/clothes/18.jpg"
+    },
+
+    {
+        "id": 20,
+        "name": "Henley T-shirt",
+        "price": "45.00",
+        "quantity": "30",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "This is a general term for branches from palm trees.",
+        "originCountry": "Korea.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Transvaal Daisies thrive in bright, indirect light. They benefit from direct morning sunlight but should be protected from harsh afternoon sun. If grown indoors, provide them with bright, filtered light.",
+        "categories": "outdoorplant",
+        "img1": "/img/clothes/19.jpg",
+        "img2": "/img/clothes/8.jpg",
+        "img3": "/img/clothes/7.jpg"
+    },
+
+    {
+        "id": 21,
+        "name": "Vintage T-shirts",
+        "price": "25.00",
+        "quantity": "70",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Gerbera jamesonii",
+        "originCountry": "South Africa.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Transvaal Daisies thrive in bright, indirect light. They benefit from direct morning sunlight but should be protected from harsh afternoon sun. If grown indoors, provide them with bright, filtered light.",
+        "categories": "outdoorplant",
+        "img1": "/img/clothes/7.jpg",
+        "img2": "/img/clothes/8.jpg",
+        "img3": "/img/clothes/9.jpg"
+    },
+
+    {
+        "id": 22,
+        "name": "Henley T-shirt",
+        "price": "49.00",
+        "quantity": "40",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName":    "Umbrellus variegatus",
+        "originCountry": "VietNam",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "This ethereal plant thrives in dappled moonlight, which enhances its enchanting variegation. While it can tolerate gentle morning sun, it prefers the gentle glow of celestial bodies and the soft radiance of indoor ambient light.",
+        "categories": "flowershrub",
+        "img1": "/img/clothes/9.jpg",
+        "img2": "/img/clothes/10.jpg",
+        "img3": "/img/clothes/11.jpg"
+    },
+
+    {
+        "id": 23,
+        "name": "T-shirt with breathable holes",
+        "price": "35.00",
+        "quantity": "70",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Philodendron goeldii",
+        "originCountry": "Brazil.",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Goeldii Philodendron prefers bright, indirect light. It can tolerate some degree of shade but will grow best and display its characteristic markings in bright, filtered light. Avoid exposing it to intense, direct sunlight.",
+        "categories": "flowershrub",
+        "img1": "/img/clothes/11.jpg",
+        "img2": "/img/clothes/12.jpg",
+        "img3": "/img/clothes/13.jpg"
+    },
+
+    {
+        "id": 24,
+        "name": "Graphic/Printed T-shirts",
+        "price": "50.00",
+        "quantity": "10",
+        "desc": "Simple round-neck T-shirts, usually without special features, suitable for every day and easy to combine with many different types of pants.The shirt has a longer body than usual, often reaching down to the hips or below the buttocks, creating a modern and comfortable style.",        "scientificName": "Pachira aquatica",
+        "originCountry": "South America",
+        "wateringCycle": "The main material used to make T-shirts is cotton, with comfort, elasticity, and good sweat absorption. However, there are also versions that use other fabrics such as polyester or fabric blends to achieve different properties.",
+        "lightRequirements": "Money Tree Bonsai prefers bright, indirect light. It can tolerate some degree of shade, but it will grow best and maintain its vibrant appearance with plenty of filtered sunlight. Avoid exposing it to intense, direct sunlight, which can scorch its leaves.",
+        "categories": "flowershrub",
+        "img1": "/img/clothes/14.jpg",
+        "img2": "/img/clothes/15.jpg",
+        "img3": "/img/clothes/16.jpg"
+    }
+]
